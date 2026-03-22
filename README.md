@@ -24,7 +24,7 @@ A 21-year old BS computer science student based in Cabuyao, Laguna Philippines. 
 
 ### 🛠️ Technical Arsenal
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,framer,threejs,nodejs,postgres,supabase,firebase,unity,cs,blender,figma" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,framermotion,threejs,nodejs,postgres,supabase,firebase,unity,cs,blender,figma" />
 </div>
 
 ---
