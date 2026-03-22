@@ -2,7 +2,7 @@
   
 <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=CHARLES+PLATON;SOFTWARE+ENGINEER;CLOUD+ARCHITECT;UI%2FUX+DESIGNER" alt="Typing SVG" />
 
-  ### ✦ Game Developer with a strong foundation in computer science ✦
+  ###  Game Developer with a strong foundation in computer science 
   
   *Crafting elegant solutions at the intersection of logic and creativity.*
   
@@ -14,7 +14,7 @@
 ---
 
 ### About Me
-A 21-year old BS computer science student based in Cabuyao, Laguna Philippines. Besides being a developer and content creator, I am big on joining competitions. It is a great way to work on solving actual problems and meet interesting people.
+A 21-year old BS computer science student based in Cabuyao, Laguna Philippines. Besides being a student and developer, I am big on joining competitions. It is a great way to work on solving actual problems and meet interesting people.
 
 - 🔭 **Current Focus:** Scalable Web Architectures & AI Integration.
 - ⚡ **Philosophy:** "Simplicity is the ultimate sophistication."
