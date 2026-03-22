@@ -13,8 +13,8 @@
 
 ---
 
-### 🖋️ About
-A 21-year old BS computer science student based in Cabuyao, Laguna Philippines. Besides being a developer and content creator, I am big on joining competitions, like hackathons. It is a great way to work on solving actual problems and meet interesting people.
+### About Me
+A 21-year old BS computer science student based in Cabuyao, Laguna Philippines. Besides being a developer and content creator, I am big on joining competitions. It is a great way to work on solving actual problems and meet interesting people.
 
 - 🔭 **Current Focus:** Scalable Web Architectures & AI Integration.
 - ⚡ **Philosophy:** "Simplicity is the ultimate sophistication."
@@ -27,25 +27,16 @@ A 21-year old BS computer science student based in Cabuyao, Laguna Philippines. 
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,framer,threejs,nodejs,postgres,supabase,firebase,unity,cs,blender,figma" />
 </div>
 
-<br/>
-
-| Category | Specialization |
-| :--- | :--- |
-| **Frontend** | Next.js, React, Tailwind CSS, Framer Motion, shadcn/ui |
-| **Backend & Cloud** | Node.js, PostgreSQL, Supabase, Firebase, Blockchain |
-| **Creative Dev** | Unity 3D, C#, Blender Modeling |
-| **Design** | Figma, UI/UX Prototyping |
-
 ---
 
 ### 📊 Performance Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Charles-CS&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charles-CS&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Charles-CS&show_icons=true&theme=tokyonight&hide_border=true&title_color=BB9AF7&icon_color=7AA2F7&text_color=C0CAF5" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charles-CS&layout=compact&theme=tokyonight&hide_border=true&title_color=BB9AF7&text_color=C0CAF5" width="44%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charles-CS&theme=transparent&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charles-CS&theme=tokyonight&hide_border=true&stroke=BB9AF7&ring=7AA2F7&fire=BB9AF7&currStreakNum=7AA2F7" />
 </p>
 
 ---
