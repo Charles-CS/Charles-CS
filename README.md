@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=200&section=header&text=Charles%20Platon&fontSize=70&animation=fadeIn&fontAlignY=38" />
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=CHARLES+PLATON;SOFTWARE+ENGINEER;CLOUD+ARCHITECT;UI%2FUX+DESIGNER)](https://git.io/typing-svg)
   
   ### ✦ Full-Stack Architect | CS Scholar | Game Developer ✦
   
