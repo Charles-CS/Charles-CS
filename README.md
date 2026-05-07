@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="80%" />
+  <img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFlazh1ajZvNDBkMjJieHczZnkyZHowam5uYnRzeXZvY205MDVnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CikJoFbzI7OufamC9F/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFlazh1ajZvNDBkMjJieHczZnkyZHowam5uYnRzeXZvY205MDVnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CikJoFbzI7OufamC9F/giphy.gif)" width="80%" />
 
   <br/>
   <h1><i>"I solve problems i don't even want and still doing it.."</i></h1>
