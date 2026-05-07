@@ -18,7 +18,7 @@ A 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philippines.
 ## 🛠️ Technical Arsenal
 
 <div align="center">
-  <h3>THE ARSENAL</h3>
+  <h3>◈ THE ARSENAL</h3>
 
   <p><strong>FRONTEND & CORE SCRIPTING</strong></p>
   <a href="https://skillicons.dev">
@@ -37,7 +37,7 @@ A 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philippines.
 
   <p><strong>GAME DEVELOPMENT & MANAGEMENT</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,unreal,cpp,cs,blender,maya,trello,vscode" />
+    <img src="https://skillicons.dev/icons?i=unity,unreal,godot,cpp,cs,blender,aseprite,gamemaker" />
   </a>
 </div>
 
@@ -49,25 +49,25 @@ A 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philippines.
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/Project-Images/projectTwo.png" width="100%" alt="Tech Treasure" />
-        <br />
-        <strong>"Tech Treasure"</strong>
-        <br />
-        <small>E-commerce Interface</small>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/Project-Images/projectOne.png" width="100%" alt="The Lost Hospital" />
+        <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/main/projectOne.png" width="100%" alt="The Lost Hospital" />
         <br />
         <strong>"The Lost Hospital"</strong>
         <br />
         <small>Unreal Engine Horror Game</small>
       </td>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/Project-Images/projectThree.png" width="100%" alt="SonicPath" />
+        <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/main/projectTwo.png" width="100%" alt="SonicPath" />
         <br />
         <strong>"SonicPath"</strong>
         <br />
         <small>Educational Phonics Game</small>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/main/ProjectImage.png" width="100%" alt="Tech Treasure" />
+        <br />
+        <strong>"Tech Treasure"</strong>
+        <br />
+        <small>E-commerce Interface</small>
       </td>
     </tr>
   </table>
