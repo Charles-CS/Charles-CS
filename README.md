@@ -18,7 +18,7 @@ A 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philippines.
 ## 🛠️ Technical Arsenal
 
 <div align="center">
-  <h3>◈ THE ARSENAL</h3>
+  <h3>THE ARSENAL</h3>
 
   <p><strong>FRONTEND & CORE SCRIPTING</strong></p>
   <a href="https://skillicons.dev">
@@ -46,16 +46,31 @@ A 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philippines.
 ## 🚀 Selected Projects
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/Project-Images/public/proj/projectTwo.png" width="75%" alt="Tech Treasure" />
-  <p><i><strong>"Tech Treasure" E-commerce Interface</strong> - A cutting-edge web design for high-end technology.</i></p>
-  <br/>
-
-  <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/Project-Images/public/proj/projectOne.png" width="75%" alt="The Lost Hospital" />
-  <p><i><strong>"The Lost Hospital"</strong> - An immersive first-person horror game built with Unreal Engine.</i></p>
-  <br/>
-
-  <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/Project-Images/public/proj/projectThree.png" width="75%" alt="SonicPath" />
-  <p><i><strong>"SonicPath: A Ride to Read"</strong> - An educational phonics-based game for early learners.</i></p>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/Project-Images/projectTwo.png" width="100%" alt="Tech Treasure" />
+        <br />
+        <strong>"Tech Treasure"</strong>
+        <br />
+        <small>E-commerce Interface</small>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/Project-Images/projectOne.png" width="100%" alt="The Lost Hospital" />
+        <br />
+        <strong>"The Lost Hospital"</strong>
+        <br />
+        <small>Unreal Engine Horror Game</small>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/Project-Images/projectThree.png" width="100%" alt="SonicPath" />
+        <br />
+        <strong>"SonicPath"</strong>
+        <br />
+        <small>Educational Phonics Game</small>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
