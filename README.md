@@ -37,7 +37,7 @@ A 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philippines.
 
   <p><strong>GAME DEVELOPMENT & MANAGEMENT</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,unreal,godot,cpp,cs,blender,maya,aseprite" />
+    <img src="https://skillicons.dev/icons?i=unity,unreal,godot,cpp,cs,blender,maya,pygame" />
   </a>
 </div>
 
