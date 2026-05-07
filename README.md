@@ -7,11 +7,11 @@
 ---
 
 ## ⚡ About Me
-A 21-year old BS computer science student based in Cabuyao, Laguna Philippines. Besides being a student and developer, I am big on joining competitions like hackathons. It is a great way to work on solving actual problems and meet interesting people.
+A 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philippines. Besides being a student and developer, I am big on joining competitions like hackathons. It is a great way to work on solving actual problems and meet interesting people.
 
 - 🔭 **Current Focus:** Scalable Web Architectures & AI Integration.
 - ⚡ **Philosophy:** "Simplicity is The Ultimate Sophistication."
-- 🏆 **Experience:** Dev Kada and Sikap tala Hackahton Participant.
+- 🏆 **Experience:** Dev Kada and Sikap tala Hackathon Participant.
 
 ---
 
@@ -35,9 +35,9 @@ A 21-year old BS computer science student based in Cabuyao, Laguna Philippines. 
     <img src="https://skillicons.dev/icons?i=gcp,aws,docker,git,figma,vercel,vscode,postman" />
   </a>
 
-  <p><strong>GAME DEVELOPMENT</strong></p>
+  <p><strong>GAME DEVELOPMENT & MANAGEMENT</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,unreal,cpp,cs,blender" />
+    <img src="https://skillicons.dev/icons?i=unity,unreal,cpp,cs,blender,maya,trello,vscode" />
   </a>
 </div>
 
@@ -46,35 +46,35 @@ A 21-year old BS computer science student based in Cabuyao, Laguna Philippines. 
 ## 🚀 Selected Projects
 
 <div align="center">
-  <img src="public/proj/projectTwo.png" width="75%" alt="Tech Treasure" />
+  <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/Project-Images/public/proj/projectTwo.png" width="75%" alt="Tech Treasure" />
   <p><i><strong>"Tech Treasure" E-commerce Interface</strong> - A cutting-edge web design for high-end technology.</i></p>
   <br/>
 
-  <img src="public/proj/projectOne.png" width="75%" alt="The Lost Hospital" />
+  <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/Project-Images/public/proj/projectOne.png" width="75%" alt="The Lost Hospital" />
   <p><i><strong>"The Lost Hospital"</strong> - An immersive first-person horror game built with Unreal Engine.</i></p>
   <br/>
 
-  <img src="public/proj/projectThree.png" width="75%" alt="SonicPath" />
+  <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/Project-Images/public/proj/projectThree.png" width="75%" alt="SonicPath" />
   <p><i><strong>"SonicPath: A Ride to Read"</strong> - An educational phonics-based game for early learners.</i></p>
 </div>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charles-CS&theme=tokyonight&hide_border=true&background=00000000&stroke=BB9AF7&ring=7AA2F7&fire=BB9AF7&currStreakNum=7AA2F7" alt="Streak Stats" />
 </p>
 
 ---
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Charles-CS&theme=tokyonight&no-bg=true&margin-w=15&filter=Stars&column=4" alt="Trophies" />
 </p>
 
 ---
 
-## Connect with me
+## 🤝 Connect with me
 <p align="center">
   <a href="https://github.com/Charles-CS" target="blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
