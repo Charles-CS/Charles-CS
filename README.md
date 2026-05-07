@@ -1,13 +1,12 @@
 <div align="center">
-   <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="80%" />
-
+  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="80%" />
   <br/>
   <h1><i>"I solve problems i don't even want and still doing it.."</i></h1>
 </div>
 
 ---
 
-### ⚡ About Me
+## ⚡ About Me
 A 21-year old BS computer science student based in Cabuyao, Laguna Philippines. Besides being a student and developer, I am big on joining competitions like hackathons. It is a great way to work on solving actual problems and meet interesting people.
 
 - 🔭 **Current Focus:** Scalable Web Architectures & AI Integration.
@@ -17,8 +16,46 @@ A 21-year old BS computer science student based in Cabuyao, Laguna Philippines. 
 ---
 
 ## 🛠️ Technical Arsenal
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,cpp,tailwind,nodejs,postgres,supabase,firebase,unity,cs,blender,figma,threejs" />
+
+<div align="center">
+  <h3>◈ THE ARSENAL</h3>
+
+  <p><strong>FRONTEND & CORE SCRIPTING</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs" />
+  </a>
+
+  <p><strong>BACKEND & DATA ARCHITECTURE</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,php,laravel,nodejs,postgres,supabase,prisma" />
+  </a>
+
+  <p><strong>CLOUD, TOOLS & DEPLOYMENT</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,aws,docker,git,figma,vercel,vscode,postman" />
+  </a>
+
+  <p><strong>GAME DEVELOPMENT</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,unreal,cpp,cs,blender" />
+  </a>
+</div>
+
+---
+
+## 🚀 Selected Projects
+
+<div align="center">
+  <img src="public/proj/projectTwo.png" width="75%" alt="Tech Treasure" />
+  <p><i><strong>"Tech Treasure" E-commerce Interface</strong> - A cutting-edge web design for high-end technology.</i></p>
+  <br/>
+
+  <img src="public/proj/projectOne.png" width="75%" alt="The Lost Hospital" />
+  <p><i><strong>"The Lost Hospital"</strong> - An immersive first-person horror game built with Unreal Engine.</i></p>
+  <br/>
+
+  <img src="public/proj/projectThree.png" width="75%" alt="SonicPath" />
+  <p><i><strong>"SonicPath: A Ride to Read"</strong> - An educational phonics-based game for early learners.</i></p>
 </div>
 
 ---
@@ -55,5 +92,3 @@ A 21-year old BS computer science student based in Cabuyao, Laguna Philippines. 
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-
-
