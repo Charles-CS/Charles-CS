@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="100%" />
+  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="85%" />
 
   <br/>
   <h1><i>"I solve problems i don't even want and still doing it.."</i></h1>
@@ -8,7 +8,7 @@
 ---
 
 ### ⚡ About Me
-A 21-year old BS computer science student based in Cabuyao, Laguna Philippines. Besides being a student and developer, I am big on joining competitions. It is a great way to work on solving actual problems and meet interesting people.
+A 21-year old BS computer science student based in Cabuyao, Laguna Philippines. Besides being a student and developer, I am big on joining competitions like hackathons. It is a great way to work on solving actual problems and meet interesting people.
 
 - 🔭 **Current Focus:** Scalable Web Architectures & AI Integration.
 - ⚡ **Philosophy:** "Simplicity is The Ultimate Sophistication."
@@ -18,8 +18,8 @@ A 21-year old BS computer science student based in Cabuyao, Laguna Philippines. 
 
 ## 🛠️ Technical Arsenal
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,reactnative,js,cpp,tailwind,nodejs,postgres,supabase,firebase,unity,cs,blender,figma,threejs" />
-</div>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,cpp,tailwind,nodejs,postgres,supabase,firebase,unity,cs,blender,figma,threejs" />
+</div>`
 
 ---
 
@@ -56,8 +56,4 @@ A 21-year old BS computer science student based in Cabuyao, Laguna Philippines. 
   </a>
 </p>
 
-<br />
 
-<div align="center">
-  <sub>Built with precision by Charles Platon. &copy; 2026</sub>
-</div>
