@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="85%" />
+  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="80%" />
 
   <br/>
   <h1><i>"I solve problems i don't even want and still doing it.."</i></h1>
@@ -18,8 +18,8 @@ A 21-year old BS computer science student based in Cabuyao, Laguna Philippines. 
 
 ## 🛠️ Technical Arsenal
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,cpp,tailwind,nodejs,postgres,supabase,firebase,unity,cs,blender,figma,threejs" />
-</div>`
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,cpp,tailwind,nodejs,postgres,supabase,firebase,unity,cs,blender,figma,threejs" />
+</div>
 
 ---
 
