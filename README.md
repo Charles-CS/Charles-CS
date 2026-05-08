@@ -10,9 +10,10 @@
 A 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philippines. Besides being a student and developer, I am big on joining competitions like hackathons. It is a great way to work on solving actual problems and meet interesting people.
 
 - 🔭 **Current Focus:** Scalable Web Architectures & AI Integration.
-- 🎨 **Frontend Spec:** High-fidelity, premium UI/UX interfaces with a focus on glassmorphism, fluid animations, and performance-driven responsiveness.
-- ⚡ **Philosophy:** "Simplicity is The Ultimate Sophistication."
+- 🎨 **Frontend Spec:** High-fidelity, premium UI/UX interfaces.
 - 🏆 **Experience:** Dev Kada and Sikap tala Hackathon Participant.
+- ⚡ **Philosophy:** "Great interfaces should feel like magic, but perform like clockwork."
+
 
 ---
 
