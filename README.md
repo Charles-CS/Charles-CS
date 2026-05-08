@@ -15,27 +15,31 @@ A 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philippines.
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 <div align="center">
-  <h3>◈ THE ARSENAL</h3>
+  <h3>THE ARSENAL</h3>
 
   <p><strong>FRONTEND & CORE SCRIPTING</strong></p>
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs" />
   </a>
 
   <p><strong>BACKEND & DATA ARCHITECTURE</strong></p>
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,php,laravel,nodejs,postgres,supabase,prisma" />
   </a>
 
   <p><strong>CLOUD, TOOLS & DEPLOYMENT</strong></p>
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=gcp,aws,docker,git,figma,vercel,vscode,postman" />
   </a>
 
   <p><strong>GAME DEVELOPMENT & MANAGEMENT</strong></p>
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,unreal,godot,vscode,cpp,cs,blender,github" />
   </a>
