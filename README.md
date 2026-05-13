@@ -71,7 +71,7 @@ A 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philippines.
       <td align="center" width="33%">
         <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/main/ProjectImage.png" width="100%" alt="Tech Treasure" />
         <br />
-        <strong>"Tech Treasure"</strong>
+        <strong>"DroneX Tech Tressure"</strong>
         <br />
         <small>E-commerce Interface</small>
       </td>
