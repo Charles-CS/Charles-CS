@@ -57,23 +57,23 @@ A 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philippines.
       <td align="center" width="33%">
         <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/main/projectOne.png" width="100%" alt="The Lost Hospital" />
         <br />
-        <strong>"The Lost Hospital"</strong>
+        <strong>"Red Quest"</strong>
         <br />
-        <small>Unreal Engine Horror Game</small>
+        <small>Mobile Platform</small>
       </td>
       <td align="center" width="33%">
         <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/main/projectTwo.png" width="100%" alt="SonicPath" />
         <br />
-        <strong>"SonicPath"</strong>
+        <strong>"Kumpirma"</strong>
         <br />
-        <small>Educational Phonics Game</small>
+        <small>EFull-stack AI + Blockchain</small>
       </td>
       <td align="center" width="33%">
         <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/main/ProjectImage.png" width="100%" alt="Tech Treasure" />
         <br />
-        <strong>"DroneX Tech Tressure"</strong>
+        <strong>"Lunas"</strong>
         <br />
-        <small>E-commerce Interface</small>
+        <small>Medical Information Platform</small>
       </td>
     </tr>
   </table>
