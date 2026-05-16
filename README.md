@@ -59,7 +59,7 @@ A 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philippines.
         <br />
         <strong>"Red Quest"</strong>
         <br />
-        <small>Mobile Platform</small>
+        <small>Mobile Information Platform</small>
       </td>
       <td align="center" width="33%">
         <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/main/projectTwo.png" width="100%" alt="SonicPath" />
