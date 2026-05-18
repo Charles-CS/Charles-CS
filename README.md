@@ -19,10 +19,10 @@ I am a 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philipp
 
 ---
 
-## Technical Arsenal
+## Technology That I Use
 
 <div align="center">
-  <h3>THE ARSENAL</h3>
+  <h3>TECHNICAL SKILLS</h3>
 
   <p><strong>FRONTEND & CORE SCRIPTING</strong></p>
   
