@@ -11,10 +11,10 @@ Aspiring Frontend Engineer with a strong foundation in Computer Science 🚀
 
 I am a 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philippines. When I'm not studying, I'm actively developing and diving into hackathons. For me, competitions is a great way to work on solving actual problems and meet interesting people.
 
-- 🔭 **Current Focus:** Scalable Web Architectures & AI Integration.
-- 🎨 **Frontend Spec:** High-fidelity, premium UI/UX interfaces.
-- 🏆 **Experience:** Dev Kada and Sikap tala Hackathon Participant.
-- ⚡ **Philosophy:** "Great interfaces should feel like magic, but perform like clockwork."
+- 🔭 **Current Focus:** Scalable Web Architectures & AI Integration
+- 🎨 **Frontend Spec:** High-Fidelity & Premium UI/UX Interfaces
+- 🏆 **Experience:** Hackathon Competitor (Dev Kada & Sikap Tala)
+- ⚡ **Philosophy:** *"Great interfaces should feel like magic, but perform like clockwork."*
 
 
 ---
