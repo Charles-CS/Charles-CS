@@ -14,7 +14,7 @@ I am a 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philipp
 - 🔭 **Current Focus:** Scalable Web Architectures & AI Integration
 - 🎨 **Frontend Spec:** High-Fidelity & Premium UI/UX Interfaces
 - 🏆 **Experience:** Hackathon Competitor (Dev Kada & Sikap Tala)
-- ⚡ **Philosophy:** *"Great interfaces should feel like magic, but perform like clockwork."*
+- ⚡ **Philosophy:** *""I think, therefore I am... incredibly distracted by a minor detail that has absolutely nothing to do with what I am supposed to be doing right now."*
 
 
 ---
