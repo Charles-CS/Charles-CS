@@ -62,19 +62,12 @@ I build immersive frontend interfaces, polished user experiences, and creative d
       <td align="left"><strong>GAME DEV & 3D MODELING</strong></td>
       <td>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=unity,unreal,godot,cpp,cs,blender,github" />
+          <img src="https://skillicons.dev/icons?i=unity,unreal,godot,cpp,cs,blender,webgpu,github" />
         </a>
       </td>
     </tr>
   </table>
 </div>
-
----
-
-## 🔥 GitHub Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charles-CS&theme=tokyonight&hide_border=true" alt="Charles-CS GitHub Streak" />
-</p>
 
 ---
 
@@ -101,6 +94,13 @@ I build immersive frontend interfaces, polished user experiences, and creative d
     </tr>
   </table>
 </div>
+
+---
+
+## 🔥 GitHub Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Charles-CS&theme=tokyonight&hide_border=true" alt="Charles-CS GitHub Streak" />
+</p>
 
 ---
 
