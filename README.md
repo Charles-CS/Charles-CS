@@ -1,14 +1,16 @@
 <div align="center">
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="80%" />
+  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="50%" />
   <br/>
-  <h1><i>"I solve problems i don't even want and still doing it.."</i></h1>
+  <h1><i>"I solve problems I don't even want, and I'm still doing it..."</i></h1>
 </div>
+
+---
 
 # Charles Platon
 
 #### Aspiring Frontend Engineer specializing in High-Fidelity UIs, Web Architectures, and Interactive Design
 
-I am a 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philippines. When I'm not studying, I'm actively developing and diving into hackathons. For me, competitions is a great way to work on solving actual problems and meet interesting people.
+I am a 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philippines. When I'm not studying, I'm actively developing and diving into hackathons. For me, competitions are a great way to work on solving actual problems and meet interesting people.
 
 > [!TIP]
 > ### Building High-Fidelity UI/UX Interfaces and Creative Web Solutions
@@ -16,17 +18,15 @@ I am a 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philipp
 > I focus on solving complex layout challenges, maintaining clean component architecture, and delivering web experiences with premium aesthetics. From smooth animations to seamless state machines and AI integrations, my work bridges the gap between structured frontend engineering and luxurious visual design.
 > 
 > <a href="https://charlesplaton.vercel.app"><img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-007ACC?style=for-the-badge" alt="View Portfolio" /></a>
-
-<details>
-<summary>⚡ <b>My Core Competencies</b></summary>
-<br />
-
-**Frontend Engineering:** Translating intricate system requirements into premium, glassmorphic, and high-fidelity user interfaces using Next.js, React, and Tailwind CSS.
-**Full-Stack & Logic:** Designing interactive client-facing experiences, state machines, and gamified logic, while collaborating with robust backends built on Laravel, Supabase, and Postgres.
-**Interactive Media:** Exploring the intersection of web tech and creative media, from scripting automated pipelines to rendering digital assets across Unity, Unreal Engine, and Blender.
-</details>
-
----
+>
+> <details>
+> <summary>⚡ <b>My Core Competencies</b></summary>
+> <br />
+> 
+> **Frontend Engineering:** Translating intricate system requirements into premium, glassmorphic, and high-fidelity user interfaces using Next.js, React, and Tailwind CSS.
+> **Full-Stack & Logic:** Designing interactive client-facing experiences, state machines, and gamified logic, while collaborating with robust backends built on Laravel, Supabase, and Postgres.
+> **Interactive Media:** Exploring the intersection of web tech and creative media, from scripting automated pipelines to rendering digital assets across Unity, Unreal Engine, and Blender.
+> </details>
 
 ## Technology That I Use
 
@@ -58,8 +58,6 @@ I am a 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philipp
   </a>
 </div>
 
----
-
 ## 🚀 Selected Projects
 
 <div align="center">
@@ -90,21 +88,15 @@ I am a 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philipp
   </table>
 </div>
 
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charles-CS&theme=tokyonight&hide_border=true&background=00000000&stroke=BB9AF7&ring=7AA2F7&fire=BB9AF7&currStreakNum=7AA2F7" alt="Streak Stats" />
 </p>
 
----
-
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Charles-CS&theme=tokyonight&no-bg=true&margin-w=15&filter=Stars&column=4" alt="Trophies" />
 </p>
-
----
 
 ## 🤝 Connect with me
 <p align="center">
