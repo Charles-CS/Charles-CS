@@ -1,7 +1,11 @@
 <div align="center">
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="50%" />
+
+  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="80%" />
+
   <br/>
-  <h1><i>"I solve problems I don't even want, and I'm still doing it..."</i></h1>
+
+  <h1><i>"I solve problems i don't even want and still doing it.."</i></h1>
+
 </div>
 
 ---
@@ -99,7 +103,7 @@ I build immersive frontend interfaces, polished user experiences, and creative d
 
 ## 🔥 GitHub Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Charles-CS&theme=tokyonight&hide_border=true" alt="Charles-CS GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Charles-CS&theme=tokyonight&hide_border=true&background=0D111700" alt="Charles-CS GitHub Streak" />
 </p>
 
 ---
