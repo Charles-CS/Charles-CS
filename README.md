@@ -5,13 +5,11 @@
   <br/>
 
   <h1><i>"I solve problems i don't even want and still doing it.."</i></h1>
-
 </div>
 
 ---
 
 # Charles Platon
-
 #### Aspiring Frontend Engineer specializing in High-Fidelity UIs, Web Architectures, and Interactive Design
 
 I build immersive frontend interfaces, polished user experiences, and creative digital solutions. Based in the Philippines, I specialize in crafting premium, high-fidelity web systems using React, Next.js, and modern scripting frameworks.
@@ -58,7 +56,7 @@ I build immersive frontend interfaces, polished user experiences, and creative d
       <td align="left"><strong>CLOUD, TOOLS & DEPLOYMENT</strong></td>
       <td>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=gcp,aws,docker,git,figma,vercel,vscode,postman" />
+          <img src="https://skillicons.dev/icons?i=gcp,aws,docker,git,github,figma,vercel,vscode,postman" />
         </a>
       </td>
     </tr>
@@ -66,7 +64,7 @@ I build immersive frontend interfaces, polished user experiences, and creative d
       <td align="left"><strong>GAME DEV & 3D MODELING</strong></td>
       <td>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=unity,unreal,godot,cpp,cs,blender,webgpu,github" />
+          <img src="https://skillicons.dev/icons?i=unity,unreal,cpp,cs,blender,webgpu" />
         </a>
       </td>
     </tr>
