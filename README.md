@@ -4,38 +4,27 @@
   <h1><i>"I solve problems i don't even want and still doing it.."</i></h1>
 </div>
 
----
-
-<div align="center">
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="50%" />
-  <br/>
-  <h1><i>"I solve problems I don't even want, and I'm still doing it..."</i></h1>
-</div>
-
----
-
 # Charles Platon
 
 #### Aspiring Frontend Engineer specializing in High-Fidelity UIs, Web Architectures, and Interactive Design
 
-I build immersive frontend interfaces, polished user experiences, and creative digital solutions. Based in the Philippines, I specialize in crafting premium, high-fidelity web systems using React, Next.js, and modern scripting frameworks.
+I am a 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philippines. When I'm not studying, I'm actively developing and diving into hackathons. For me, competitions is a great way to work on solving actual problems and meet interesting people.
 
 > [!TIP]
 > ### Building High-Fidelity UI/UX Interfaces and Creative Web Solutions
 > 
 > I focus on solving complex layout challenges, maintaining clean component architecture, and delivering web experiences with premium aesthetics. From smooth animations to seamless state machines and AI integrations, my work bridges the gap between structured frontend engineering and luxurious visual design.
 > 
-> <a href="https://github.com/Charles-CS"><img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-007ACC?style=for-the-badge" alt="View Portfolio" /></a>
+> <a href="https://charlesplaton.vercel.app"><img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-007ACC?style=for-the-badge" alt="View Portfolio" /></a>
 
 <details>
 <summary>⚡ <b>My Core Competencies</b></summary>
 <br />
 
-**Frontend Engineering:** Crafting premium, high-fidelity user interfaces with Next.js, Tailwind CSS, and Three.js.
-**Full-Stack & Data:** Managing systems and state machines using Laravel, Node.js, PostgreSQL, and Supabase.
-**Interactive Media:** Developing digital environments and scripts using Unity, Unreal Engine, and Blender.
+**Frontend Engineering:** Translating intricate system requirements into premium, glassmorphic, and high-fidelity user interfaces using Next.js, React, and Tailwind CSS.
+**Full-Stack & Logic:** Designing interactive client-facing experiences, state machines, and gamified logic, while collaborating with robust backends built on Laravel, Supabase, and Postgres.
+**Interactive Media:** Exploring the intersection of web tech and creative media, from scripting automated pipelines to rendering digital assets across Unity, Unreal Engine, and Blender.
 </details>
-
 
 ---
 
@@ -77,21 +66,21 @@ I build immersive frontend interfaces, polished user experiences, and creative d
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/main/projectOne.png" width="100%" alt="The Lost Hospital" />
+        <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/main/projectOne.png" width="100%" alt="Red Quest" />
         <br />
         <strong>"Red Quest"</strong>
         <br />
         <small>Mobile Information Platform</small>
       </td>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/main/projectTwo.png" width="100%" alt="SonicPath" />
+        <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/main/projectTwo.png" width="100%" alt="Kumpirma" />
         <br />
         <strong>"Kumpirma"</strong>
         <br />
-        <small>EFull-stack AI + Blockchain</small>
+        <small>Full-stack AI + Blockchain (Frontend)</small>
       </td>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/main/ProjectImage.png" width="100%" alt="Tech Treasure" />
+        <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/main/ProjectImage.png" width="100%" alt="Lunas" />
         <br />
         <strong>"Lunas"</strong>
         <br />
