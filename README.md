@@ -71,6 +71,13 @@ I build immersive frontend interfaces, polished user experiences, and creative d
 
 ---
 
+## 🔥 GitHub Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charles-CS&theme=tokyonight&hide_border=true" alt="Charles-CS GitHub Streak" />
+</p>
+
+---
+
 ## 🚀 Selected Projects
 
 <div align="center">
