@@ -1,14 +1,16 @@
 <div align="center">
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="80%" />
+  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="50%" />
   <br/>
-  <h1><i>"I solve problems i don't even want and still doing it.."</i></h1>
+  <h1><i>"I solve problems I don't even want, and I'm still doing it..."</i></h1>
 </div>
+
+---
 
 # Charles Platon
 
 #### Aspiring Frontend Engineer specializing in High-Fidelity UIs, Web Architectures, and Interactive Design
 
-I am a 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philippines. When I'm not studying, I'm actively developing and diving into hackathons. For me, competitions is a great way to work on solving actual problems and meet interesting people.
+I build immersive frontend interfaces, polished user experiences, and creative digital solutions. Based in the Philippines, I specialize in crafting premium, high-fidelity web systems using React, Next.js, and modern scripting frameworks.
 
 > [!TIP]
 > ### Building High-Fidelity UI/UX Interfaces and Creative Web Solutions
@@ -16,56 +18,55 @@ I am a 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philipp
 > I focus on solving complex layout challenges, maintaining clean component architecture, and delivering web experiences with premium aesthetics. From smooth animations to seamless state machines and AI integrations, my work bridges the gap between structured frontend engineering and luxurious visual design.
 > 
 > <a href="https://charlesplaton.vercel.app"><img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-007ACC?style=for-the-badge" alt="View Portfolio" /></a>
+>
+> <details>
+> <summary>⚡ <b>My Core Competencies</b></summary>
+> <br />
+> 
+> **Frontend Engineering:** Translating intricate system requirements into premium, glassmorphic, and high-fidelity user interfaces using Next.js, React, and Tailwind CSS.
+> **Full-Stack & Logic:** Designing interactive client-facing experiences, state machines, and gamified logic, while collaborating with robust backends built on Laravel, Supabase, and Postgres.
+> **Interactive Media:** Exploring the intersection of web tech and creative media, from scripting automated pipelines to rendering digital assets across Unity, Unreal Engine, and Blender.
+> </details>
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <details open>
-        <summary>⚡ <b>My Core Competencies</b></summary>
-        <br />
-        <p><b>Frontend Engineering:</b> Translating intricate system requirements into premium, glassmorphic, and high-fidelity user interfaces using Next.js, React, and Tailwind CSS.</p>
-        <p><b>Full-Stack & Logic:</b> Designing interactive client-facing experiences, state machines, and gamified logic, while collaborating with robust backends built on Laravel, Supabase, and Postgres.</p>
-        <p><b>Interactive Media:</b> Exploring the intersection of web tech and creative media, from scripting automated pipelines to rendering digital assets across Unity, Unreal Engine, and Blender.</p>
-      </details>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charles-CS&theme=tokyonight&hide_border=true&background=00000000&stroke=BB9AF7&ring=7AA2F7&fire=BB9AF7&currStreakNum=7AA2F7" width="100%" alt="Streak Stats" />
-    </td>
-  </tr>
-</table>
-
----
-
-## Technology That I Use
+## 🛠️ Technology That I Use
 
 <div align="center">
-  <h3>TECHNICAL SKILLS</h3>
-
-  <p><strong>FRONTEND & CORE SCRIPTING</strong></p>
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs" />
-  </a>
-
-  <p><strong>BACKEND & DATA ARCHITECTURE</strong></p>
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,php,laravel,nodejs,postgres,supabase,prisma" />
-  </a>
-
-  <p><strong>CLOUD, TOOLS & DEPLOYMENT</strong></p>
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,aws,docker,git,figma,vercel,vscode,postman" />
-  </a>
-
-  <p><strong>GAME DEVELOPMENT & MANAGEMENT</strong></p>
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,unreal,godot,vscode,cpp,cs,blender,github" />
-  </a>
+  <table>
+    <tr>
+      <td align="left"><strong>FRONTEND & CORE SCRIPTING</strong></td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left"><strong>BACKEND & DATA ARCHITECTURE</strong></td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=java,py,php,laravel,nodejs,postgres,supabase,prisma" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left"><strong>CLOUD, TOOLS & DEPLOYMENT</strong></td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=gcp,aws,docker,git,figma,vercel,vscode,postman" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left"><strong>GAME DEV & 3D MODELING</strong></td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=unity,unreal,godot,cpp,cs,blender,github" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -73,28 +74,22 @@ I am a 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philipp
 ## 🚀 Selected Projects
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/main/projectOne.png" width="100%" alt="Red Quest" />
-        <br />
-        <strong>"Red Quest"</strong>
-        <br />
-        <small>Mobile Information Platform</small>
+      <td align="center" width="33%" valign="top">
+        <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/main/projectOne.png" width="100%" alt="Red Quest" style="border-radius: 8px;" />
+        <br /><strong>Red Quest</strong>
+        <br /><small>Mobile Information Platform</small>
       </td>
-      <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/main/projectTwo.png" width="100%" alt="Kumpirma" />
-        <br />
-        <strong>"Kumpirma"</strong>
-        <br />
-        <small>Full-stack AI + Blockchain (Frontend)</small>
+      <td align="center" width="33%" valign="top">
+        <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/main/projectTwo.png" width="100%" alt="Kumpirma" style="border-radius: 8px;" />
+        <br /><strong>Kumpirma</strong>
+        <br /><small>Full-stack AI + Blockchain</small>
       </td>
-      <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/main/ProjectImage.png" width="100%" alt="Lunas" />
-        <br />
-        <strong>"Lunas"</strong>
-        <br />
-        <small>Medical Information Platform</small>
+      <td align="center" width="33%" valign="top">
+        <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/main/ProjectImage.png" width="100%" alt="Lunas" style="border-radius: 8px;" />
+        <br /><strong>Lunas</strong>
+        <br /><small>Medical Information Platform</small>
       </td>
     </tr>
   </table>
