@@ -6,15 +6,35 @@
 
 ---
 
-## ⚡ About Me
-Aspiring Frontend Engineer with a strong foundation in Computer Science 🚀
+<div align="center">
+  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="50%" />
+  <br/>
+  <h1><i>"I solve problems I don't even want, and I'm still doing it..."</i></h1>
+</div>
 
-I am a 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philippines. When I'm not studying, I'm actively developing and diving into hackathons. For me, competitions is a great way to work on solving actual problems and meet interesting people.
+---
 
-- 🔭 **Current Focus:** Scalable Web Architectures & AI Integration
-- 🎨 **Frontend Spec:** High-Fidelity & Premium UI/UX Interfaces
-- 🏆 **Experience:** Hackathon Competitor (Dev Kada & Sikap Tala)
-- ⚡ **Philosophy:** *"I think, therefore I am.. incredibly distracted by a minor detail that has absolutely nothing to do with what I am supposed to be doing right now."*
+# Charles Platon
+
+#### Aspiring Frontend Engineer specializing in High-Fidelity UIs, Web Architectures, and Interactive Design
+
+I build immersive frontend interfaces, polished user experiences, and creative digital solutions. Based in the Philippines, I specialize in crafting premium, high-fidelity web systems using React, Next.js, and modern scripting frameworks.
+
+> [!TIP]
+> ### Building High-Fidelity UI/UX Interfaces and Creative Web Solutions
+> 
+> I focus on solving complex layout challenges, maintaining clean component architecture, and delivering web experiences with premium aesthetics. From smooth animations to seamless state machines and AI integrations, my work bridges the gap between structured frontend engineering and luxurious visual design.
+> 
+> <a href="https://github.com/Charles-CS"><img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-007ACC?style=for-the-badge" alt="View Portfolio" /></a>
+
+<details>
+<summary>⚡ <b>My Core Competencies</b></summary>
+<br />
+
+**Frontend Engineering:** Crafting premium, high-fidelity user interfaces with Next.js, Tailwind CSS, and Three.js.
+**Full-Stack & Data:** Managing systems and state machines using Laravel, Node.js, PostgreSQL, and Supabase.
+**Interactive Media:** Developing digital environments and scripts using Unity, Unreal Engine, and Blender.
+</details>
 
 
 ---
