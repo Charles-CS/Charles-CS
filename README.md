@@ -27,7 +27,9 @@ I am a 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philipp
 > <br />
 > 
 > **Frontend Engineering:** Translating intricate system requirements into premium, glassmorphic, and high-fidelity user interfaces using Next.js, React, and Tailwind CSS. <br />
+<br>
 > **Full-Stack & Logic:** Designing interactive client-facing experiences, state machines, and gamified logic, while collaborating with robust backends built on Laravel, Supabase, and Postgres. <br />
+<br>
 > **Interactive Media:** Exploring the intersection of web tech and creative media, from scripting automated pipelines to rendering digital assets across Unity, Unreal Engine, and Blender.
 > </details>
 
