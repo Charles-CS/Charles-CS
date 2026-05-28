@@ -100,9 +100,9 @@ I am a 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philipp
 
 ---
 
-## 🔥 GitHub Streak Stats
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Charles-CS&theme=tokyonight&hide_border=true&background=0D111700" alt="Charles-CS GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Charles-CS&theme=tokyonight&no-bg=true&margin-w=15&row=2" alt="Trophies" />
 </p>
 
 ---
