@@ -102,7 +102,7 @@ I am a 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philipp
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Charles-CS&theme=tokyonight&no-bg=true&column=1&title=Stars,Commits,Followers" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Charles-CS&theme=tokyonight&no-bg=true&columns=1&titles=Stars,Commits,Follower" alt="Trophies" />
 </p>
 
 ---
