@@ -100,8 +100,6 @@ I am a 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philipp
 
 ---
 
----
-
 ## 🤝 Connect with me
 <p align="center">
   <a href="https://github.com/Charles-CS" target="blank">
