@@ -21,16 +21,20 @@
 
 ---
 
+<!-- Constrained max-width layout wrapper to match image_979c43.png layout exactly -->
 <div align="center">
-  <br />
+  <div style="max-width: 80%; line-height: 1.6;">
+    <br />
+    
+    <!-- Title matched to paragraph typography style instead of a heavy H2/H3 header -->
+    <span style="font-size: 1.25em; font-weight: bold;">Frontend Engineer & Creative Web Architect</span>
+    <br /><br />
 
-  <!-- Customized Title Wrapper to eliminate the automatic h2 line seen in image_97a03d.png -->
-  <div style="font-size: 2em; font-weight: bold; margin-bottom: 16px;">Frontend Engineer & Creative Web Architect</div>
+    Third-year Computer Science student at the University of Cabuyao, Philippines, focusing on premium user experiences. I engineer high-fidelity, fluid user interfaces using Next.js, TypeScript, and Tailwind CSS. 
+    <br /><br />
+    Currently developing full-stack applications with state-driven architectures and frontend frameworks, collaborating on solutions powered by Laravel, Supabase, and automated media pipelines. Passionate about competitive development, building polished digital products, and translating intricate system requirements into luxurious visual design.
 
-  Third-year Computer Science student at the University of Cabuyao, Philippines, focusing on premium user experiences. I engineer high-fidelity, fluid user interfaces using Next.js, TypeScript, and Tailwind CSS. 
-
-  Currently developing full-stack applications with state-driven architectures and frontend frameworks, collaborating on solutions powered by Laravel, Supabase, and automated media pipelines. Passionate about competitive development, building polished digital products, and translating intricate system requirements into luxurious visual design.
-
+  </div>
 </div>
 
 ---
