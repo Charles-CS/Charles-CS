@@ -6,7 +6,6 @@
   <br />
   <br />
 
-  <!-- Top Link Badges (Mirrors link layout with premium blue palette) -->
   <a href="https://charlesplaton.vercel.app" target="blank"><img src="https://img.shields.io/badge/CHARLESPLATON.VERCEL.APP-007ACC?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/charles-platon" target="blank"><img src="https://img.shields.io/badge/LINKEDIN-005999?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://github.com/Charles-CS" target="blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge" alt="GitHub" /></a>
@@ -14,39 +13,35 @@
 
   <br/><br/>
 
-  <!-- Inline Metadata Row with Aligned Open to Opportunities Text Block -->
   📍 Cabuyao, Laguna, Philippines &nbsp;|&nbsp; 💻 **OPEN TO OPPORTUNITIES** &nbsp;|&nbsp; 🎓 BSCS @ University of Cabuyao &nbsp;|&nbsp; 🕒 GMT+8
 
 </div>
 
 ---
 
-<!-- Constrained max-width layout wrapper to match image_979c43.png layout exactly -->
-<div align="center">
-  <div style="max-width: 80%; line-height: 1.6;">
-    <br />
-    
-    <!-- Title matched to paragraph typography style instead of a heavy H2/H3 header -->
-    <span style="font-size: 1.25em; font-weight: bold;">Frontend Engineer & Creative Web Architect</span>
-    <br /><br />
+<p align="center">
+  <strong>Frontend Engineer & Creative Web Architect</strong>
+</p>
 
-    Third-year Computer Science student at the University of Cabuyao, Philippines, focusing on premium user experiences. I engineer high-fidelity, fluid user interfaces using Next.js, TypeScript, and Tailwind CSS. 
-    <br /><br />
-    Currently developing full-stack applications with state-driven architectures and frontend frameworks, collaborating on solutions powered by Laravel, Supabase, and automated media pipelines. Passionate about competitive development, building polished digital products, and translating intricate system requirements into luxurious visual design.
+<p align="center">
+  Third-year Computer Science student at the University of Cabuyao, Philippines, focusing on premium user<br/>
+  experiences. I engineer high-fidelity, fluid user interfaces using Next.js, TypeScript, and Tailwind CSS.
+</p>
 
-  </div>
-</div>
+<p align="center">
+  Currently developing full-stack applications with state-driven architectures and frontend frameworks, collaborating on<br/>
+  solutions powered by Laravel, Supabase, and automated media pipelines. Passionate about competitive development,<br/>
+  building polished digital products, and translating intricate system requirements into luxurious visual design.
+</p>
 
 ---
 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <!-- Fully transparent GitHub Streak Stats with no borders, backgrounds, or divider lines -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charles-CS&theme=transparent&ring=007acc&fire=007acc&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=888888&hide_border=true" alt="Charles's Streak Stats" />
   <br />
   <br />
-  <!-- Transparent Background Activity Graph to match -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charles-CS&bg_color=00000000&color=007acc&line=007acc&point=ffffff&area=true&hide_border=true&area_color=007acc" width="100%" alt="Charles's Contribution Graph" />
 </div>
 
