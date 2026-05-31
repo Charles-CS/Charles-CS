@@ -12,25 +12,25 @@
   <a href="https://github.com/Charles-CS" target="blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge" alt="GitHub" /></a>
   <a href="https://x.com/Charles_CS_" target="blank"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge" alt="Twitter" /></a>
 
-  <!-- Inline Metadata Row with a crisp, solid blue status block matching image_979160.png -->
+  <!-- Inline Metadata Row with a crisp, solid blue status block -->
   📍 Cabuyao, Laguna, Philippines &nbsp;|&nbsp; <span style="background-color: #007ACC; color: white; padding: 3px 6px; font-weight: bold; font-size: 0.85em; vertical-align: middle; display: inline-block;">OPEN TO OPPORTUNITIES</span> &nbsp;|&nbsp; 🎓 BSCS @ University of Cabuyao &nbsp;|&nbsp; 🕒 GMT+8
 
 </div>
 
 ---
 
-<!-- Text section built with native HTML paragraph tags to ensure proper text-wrapping and widths -->
-<p align="center">
-  <strong>Aspiring Frontend Engineer</strong>
-</p>
-
-<p align="center">
-I am a 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philippines. When I'm not studying, I'm actively developing and diving into hackathons. For me, competitions are a great way to work on solving actual problems and meet interesting people.
-</p>
-
-<p align="center">
-  I'm a game developer at heart—creator of the first-person horror experience The Lost Hospital built in Unreal Engine—who is also heavily exploring full-stack web development.
-</p>
+<!-- Constrained layout block utilizing a clean, transparent table wrapper (75% max width) -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="75%">
+  <tr>
+    <td align="center" style="border: none;">
+      <strong>Frontend Engineer & Creative Web Architect</strong>
+      <br /><br />
+    I am a 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philippines. When I'm not studying, I'm actively developing and diving into hackathons. For me, competitions are a great way to work on solving actual problems and meet interesting people.
+      <br /><br />
+     I'm a game developer at heart—creator of the first-person horror experience The Lost Hospital built in Unreal Engine—who is also heavily exploring full-stack web development.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -111,3 +111,23 @@ I am a 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philipp
     </tr>
   </table>
 </div>
+
+
+## 🤝 Connect with me
+<p align="center">
+  <a href="https://github.com/Charles-CS" target="blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://x.com/Charles_CS_" target="blank">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/charles-platon" target="blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/charles.platon.573221" target="blank">
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/chrls_plnkton" target="blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
