@@ -11,23 +11,21 @@
   <a href="https://github.com/Charles-CS" target="blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge" alt="GitHub" /></a>
   <a href="https://x.com/Charles_CS_" target="blank"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge" alt="Twitter" /></a>
 
-  📍 Cabuyao, Laguna, Philippines &nbsp;|&nbsp; <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='165' height='22'><rect width='165' height='22' fill='%23007ACC'/><text x='50%' y='15' fill='white' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' font-weight='bold' text-anchor='middle'>OPEN TO OPPORTUNITIES</text></svg>" style="vertical-align: middle; display: inline-block;" height="22" /> &nbsp;|&nbsp; 🎓 BSCS @ University of Cabuyao &nbsp;|&nbsp; 🕒 GMT+8
+  📍 Cabuyao, Laguna, Philippines &nbsp;|&nbsp; <img src="https://img.shields.io/badge/OPEN_TO_OPPORTUNITIES-007ACC?style=flat-square" alt="Status" style="vertical-align: middle;" /> &nbsp;|&nbsp; 🎓 BSCS @ University of Cabuyao &nbsp;|&nbsp; 🕒 GMT+8
 
 </div>
 
 ---
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="75%" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;">
-      <strong>Frontend Engineer & Creative Web Architect</strong>
-      <br /><br />
+<div align="center">
+  <div style="max-width: 75%; text-align: center; line-height: 1.6;">
+    <strong>Frontend Engineer & Creative Web Architect</strong>
+    <br /><br />
     I am a 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philippines. When I'm not studying, I'm actively developing and diving into hackathons. For me, competitions are a great way to work on solving actual problems and meet interesting people.
-      <br /><br />
-     I'm a game developer at heart—creator of the first-person horror experience The Lost Hospital built in Unreal Engine—who is also heavily exploring full-stack web development.
-    </td>
-  </tr>
-</table>
+    <br /><br />
+    I'm a game developer at heart—creator of the first-person horror experience The Lost Hospital built in Unreal Engine—who is also heavily exploring full-stack web development.
+  </div>
+</div>
 
 ---
 
@@ -46,6 +44,7 @@
 
 ## 🛠️ Technology That I Use
 
+  <br />
 <div align="center">
   <table border="0" cellpadding="5" cellspacing="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
@@ -90,6 +89,7 @@
 ## 🚀 Selected Projects
 
 <div align="center">
+    <br />
   <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
       <td align="center" width="33%" valign="top" style="border: none; padding: 10px;">
@@ -116,6 +116,7 @@
 <br/><br/>
 
 ## 🤝 Connect with me
+  <br />  <br />
 <p align="center">
   <a href="https://github.com/Charles-CS" target="blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
