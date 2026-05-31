@@ -2,8 +2,11 @@
   <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="80%" />
   <br/>
   <h1><i>"I solve problems i don't even want and still doing it.."</i></h1>
+  
+  <br />
+  <br />
 
-  <!-- Top Link Badges (Mirrors image_97abe0.png layout with premium blue palette) -->
+  <!-- Top Link Badges (Mirrors image_97a767.png layout with premium blue palette) -->
   <a href="https://charlesplaton.vercel.app" target="blank"><img src="https://img.shields.io/badge/CHARLESPLATON.VERCEL.APP-007ACC?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/charles-platon" target="blank"><img src="https://img.shields.io/badge/LINKEDIN-005999?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://github.com/Charles-CS" target="blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge" alt="GitHub" /></a>
@@ -11,10 +14,14 @@
 
   <br/><br/>
 
-  <!-- Inline Metadata Row (As seen in image_97abe0.png) -->
-  📍 Cabuyao, Laguna, Philippines &nbsp;|&nbsp; 💻 **OPEN TO OPPORTUNITIES** &nbsp;|&nbsp; 🎓 BSCS @ University of Cabuyao &nbsp;|&nbsp; 🕒 GMT+8
+  <!-- Inline Metadata Row (As seen in image_97a767.png) -->
+  📍 Cabuyao, Laguna, Philippines &nbsp;|&nbsp; <img src="https://img.shields.io/badge/OPEN%20TO%20OPPORTUNITIES-007ACC?style=flat-square" alt="Status" /> &nbsp;|&nbsp; 🎓 BSCS @ University of Cabuyao &nbsp;|&nbsp; 🕒 GMT+8
 
-  ---
+</div>
+
+---
+
+<div align="center">
 
   ## Frontend Engineer & Creative Web Architect
 
