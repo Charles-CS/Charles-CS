@@ -74,12 +74,10 @@ I am a 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philipp
 ## 📈 Contribution Activity
 
 <div align="center">
-  <!-- Seamless, borderless GitHub Streak Stats (Matches image_98095c.png colors but removes lines) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charles-CS&theme=tokyonight&ring=007acc&fire=007acc&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=888888&hide_border=true" alt="Charles's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charles-CS&theme=transparent&ring=007acc&fire=007acc&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=888888&hide_border=true" alt="Charles's Streak Stats" />
   <br />
   <br />
-  <!-- Dynamic Activity Graph updated to premium Royal Blue -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charles-CS&bg_color=0d1117&color=007acc&line=007acc&point=ffffff&area=true&hide_border=true&area_color=007acc" width="100%" alt="Charles's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charles-CS&bg_color=00000000&color=007acc&line=007acc&point=ffffff&area=true&hide_border=true&area_color=007acc" width="100%" alt="Charles's Contribution Graph" />
 </div>
 
 ---
