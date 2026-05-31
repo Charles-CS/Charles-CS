@@ -6,17 +6,20 @@
   <br />
   <br />
 
+  <!-- Top Link Badges -->
   <a href="https://charlesplaton.vercel.app" target="blank"><img src="https://img.shields.io/badge/CHARLESPLATON.VERCEL.APP-007ACC?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/charles-platon" target="blank"><img src="https://img.shields.io/badge/LINKEDIN-005999?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://github.com/Charles-CS" target="blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge" alt="GitHub" /></a>
   <a href="https://x.com/Charles_CS_" target="blank"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge" alt="Twitter" /></a>
 
-  📍 Cabuyao, Laguna, Philippines &nbsp;|&nbsp; <img src="https://img.shields.io/badge/OPEN_TO_OPPORTUNITIES-007ACC?style=flat-square" alt="Status" style="vertical-align: middle;" /> &nbsp;|&nbsp; 🎓 BSCS @ University of Cabuyao &nbsp;|&nbsp; 🕒 GMT+8
+  <!-- Inline Metadata Row with precision badge alignment -->
+  📍 Cabuyao, Laguna, Philippines &nbsp;|&nbsp; <img src="https://img.shields.io/badge/OPEN_TO_OPPORTUNITIES-007ACC?style=flat-square" alt="Status" align="center" style="transform: translateY(2px);" /> &nbsp;|&nbsp; 🎓 BSCS @ University of Cabuyao &nbsp;|&nbsp; 🕒 GMT+8
 
 </div>
 
 ---
 
+<!-- Centered, borderless container wrapping constrained layout text (Approx 75% wide block) -->
 <div align="center">
   <div style="max-width: 75%; text-align: center; line-height: 1.6;">
     <strong>Frontend Engineer & Creative Web Architect</strong>
@@ -32,9 +35,11 @@
 ## 📈 Contribution Activity
 
 <div align="center">
+  <!-- Fully transparent GitHub Streak Stats with no borders, backgrounds, or divider lines -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charles-CS&theme=transparent&ring=007acc&fire=007acc&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=888888&hide_border=true" alt="Charles's Streak Stats" />
   <br />
   <br />
+  <!-- Transparent Background Activity Graph to match -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charles-CS&bg_color=00000000&color=007acc&line=007acc&point=ffffff&area=true&hide_border=true&area_color=007acc" width="100%" alt="Charles's Contribution Graph" />
 </div>
 
@@ -44,7 +49,6 @@
 
 ## 🛠️ Technology That I Use
 
-  <br />
 <div align="center">
   <table border="0" cellpadding="5" cellspacing="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
@@ -89,7 +93,6 @@
 ## 🚀 Selected Projects
 
 <div align="center">
-    <br />
   <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
       <td align="center" width="33%" valign="top" style="border: none; padding: 10px;">
@@ -116,7 +119,7 @@
 <br/><br/>
 
 ## 🤝 Connect with me
-  <br />  <br />
+<br/><br/>
 <p align="center">
   <a href="https://github.com/Charles-CS" target="blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
