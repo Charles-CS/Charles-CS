@@ -1,9 +1,6 @@
 <div align="center">
-
   <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="80%" />
-
   <br/>
-
   <h1><i>"I solve problems i don't even want and still doing it.."</i></h1>
 </div>
 
@@ -74,6 +71,14 @@ I am a 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philipp
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charles-CS&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true&area_color=ff0000" width="100%" alt="Charles's Contribution Graph" />
+</div>
+
+---
+
 ## 🚀 Selected Projects
 
 <div align="center">
@@ -105,10 +110,10 @@ I am a 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philipp
   <a href="https://github.com/Charles-CS" target="blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="blank">
+  <a href="https://x.com/Charles_CS_" target="blank">
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="blank">
+  <a href="https://linkedin.com/in/charles-platon" target="blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/charles.platon.573221" target="blank">
