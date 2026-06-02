@@ -97,7 +97,7 @@
     <tr style="border: none;">
       <td align="center" width="33%" valign="top" style="border: none; padding: 10px;">
         <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/main/projectOne.png" width="100%" alt="Red Quest" style="border-radius: 8px;" />
-        <br /><strong>Red Quest</strong>
+        <br /><strong>RedQuest</strong>
         <br /><small>Mobile Information Platform</small>
       </td>
       <td align="center" width="33%" valign="top" style="border: none; padding: 10px;">
