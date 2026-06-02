@@ -13,7 +13,7 @@
   <a href="https://x.com/Charles_CS_" target="blank"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge" alt="Twitter" /></a>
 
   <!-- Inline Metadata Row with precision badge alignment -->
-  📍 Cabuyao, Laguna, Philippines &nbsp;|&nbsp; <img src="https://img.shields.io/badge/OPEN_TO_OPPORTUNITIES-007ACC?style=flat-square" alt="Status" align="center" style="transform: translateY(2px);" /> &nbsp;|&nbsp; 🎓 BSCS @ University of Cabuyao &nbsp;|&nbsp; 🕒 GMT+8
+  📍 Cabuyao, Laguna, Philippines &nbsp;|&nbsp; <img src="https://img.shields.io/badge/OPEN_TO_WORK-007ACC?style=flat-square" alt="Status" align="center" style="transform: translateY(2px);" /> &nbsp;|&nbsp; 🎓 BSCS @ University of Cabuyao &nbsp;|&nbsp; 🕒 GMT+8
 
 </div>
 
