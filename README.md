@@ -35,8 +35,8 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <!-- Fixed GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=Charles-CS&theme=transparent&ring=007acc&fire=007acc&curr_streak_num=ffffff&side_nums=ffffff&side_labels=ffffff&dates=888888&hide_border=true" alt="Charles's Streak Stats" />
+  <!-- Guaranteed Visible Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Charles-CS&theme=tokyonight&hide_border=true&background=00000000&ring=007acc&fire=007acc" alt="Charles's Streak Stats" />
   <br />
   <br />
   <!-- Live Contribution Graph -->
