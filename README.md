@@ -35,12 +35,10 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <!-- Fully transparent GitHub Streak Stats with no borders, backgrounds, or divider lines -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charles-CS&theme=transparent&ring=007acc&fire=007acc&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=888888&hide_border=true" alt="Charles's Streak Stats" />
   <br />
   <br />
-  <!-- Transparent Background Activity Graph to match -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charles-CS&bg_color=00000000&color=007acc&line=007acc&point=ffffff&area=true&hide_border=true&area_color=007acc" width="100%" alt="Charles's Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Charles-CS/Charles-CS/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="Charles's Contribution Graph" />
 </div>
 
 ---
