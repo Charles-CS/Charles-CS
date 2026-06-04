@@ -39,8 +39,15 @@
   <img src="https://streak-stats.demolab.com/?user=Charles-CS&theme=tokyonight&hide_border=true&background=00000000&ring=007acc&fire=007acc" alt="Charles's Streak Stats" />
   <br />
   <br />
+
   <!-- Live Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charles-CS&bg_color=00000000&color=007acc&line=007acc&point=ffffff&area=true&hide_border=true&area_color=007acc" width="100%" alt="Charles's Contribution Graph" />
+
+  <br />
+  <br />
+
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Charles-CS&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" width="100%" alt="Charles's GitHub Trophies" />
 </div>
 
 ---
