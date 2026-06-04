@@ -47,7 +47,7 @@
   <br />
 
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Charles-CS&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" width="100%" alt="Charles's GitHub Trophies" />
+ <img src="https://github-profile-trophy.vercel.app/?username=Charles-CS&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&v=2" />
 </div>
 
 ---
