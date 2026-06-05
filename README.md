@@ -44,20 +44,17 @@
   <br />
   <br />
   
-  <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; width: 100%;">
-    <tr style="border: none;">
-      <td align="center" width="50%" valign="top" style="border: none; padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charles-CS&theme=tokyonight&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=007acc&text_color=ffffff&icon_color=007acc" alt="Top Languages" />
-      </td>
-      <td align="center" width="50%" valign="top" style="border: none; padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Charles-CS&theme=tokyonight&hide_border=true&show_icons=true&bg_color=00000000&title_color=007acc&text_color=ffffff&icon_color=007acc&rank_icon=github" alt="Charles's GitHub Stats" />
-      </td>
-    </tr>
-  </table>
-  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charles-CS&theme=tokyonight&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=007acc&text_color=ffffff&icon_color=007acc" alt="Top Languages" height="165" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=Charles-CS&theme=tokyonight&hide_border=true&show_icons=true&bg_color=00000000&title_color=007acc&text_color=ffffff&icon_color=007acc&rank_icon=github" alt="Charles's GitHub Stats" height="165" />
+  </p>
+
   <br />
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Charles-CS&theme=tokyonight&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="90%" alt="GitHub Trophies" />
+
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Charles-CS&theme=tokyonight&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="90%" alt="GitHub Trophies" />
+  </p>
 </div>
 
 ---
