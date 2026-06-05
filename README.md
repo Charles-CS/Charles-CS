@@ -35,16 +35,29 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <!-- Guaranteed Visible Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=Charles-CS&theme=tokyonight&hide_border=true&background=00000000&ring=007acc&fire=007acc" alt="Charles's Streak Stats" />
   <br />
   <br />
 
-  <!-- Live Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charles-CS&bg_color=00000000&color=007acc&line=007acc&point=ffffff&area=true&hide_border=true&area_color=007acc" width="100%" alt="Charles's Contribution Graph" />
 
   <br />
   <br />
+  
+  <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; width: 100%;">
+    <tr style="border: none;">
+      <td align="center" width="50%" valign="top" style="border: none; padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charles-CS&theme=tokyonight&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=007acc&text_color=ffffff&icon_color=007acc" alt="Top Languages" />
+      </td>
+      <td align="center" width="50%" valign="top" style="border: none; padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Charles-CS&theme=tokyonight&hide_border=true&show_icons=true&bg_color=00000000&title_color=007acc&text_color=ffffff&icon_color=007acc&rank_icon=github" alt="Charles's GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+  
+  <br />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Charles-CS&theme=tokyonight&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="90%" alt="GitHub Trophies" />
 </div>
 
 ---
