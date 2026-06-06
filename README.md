@@ -6,13 +6,11 @@
   <br />
   <br />
 
-  <!-- Top Link Badges -->
   <a href="https://charlesplaton.vercel.app" target="blank"><img src="https://img.shields.io/badge/CHARLESPLATON.VERCEL.APP-007ACC?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/charles-platon" target="blank"><img src="https://img.shields.io/badge/LINKEDIN-005999?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://github.com/Charles-CS" target="blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge" alt="GitHub" /></a>
-  <a href="https://x.com/Charles_CS_" target="blank"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge" alt="Twitter" /></a>
+  <a href="https://www.facebook.com/charles.platon.573221" target="blank"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge" alt="Facebook" /></a>
 
-  <!-- Inline Metadata Row with precision badge alignment -->
   📍 Cabuyao, Laguna, Philippines &nbsp;|&nbsp; <img src="https://img.shields.io/badge/OPEN_TO_WORK-007ACC?style=flat-square" alt="Status" align="center" style="transform: translateY(2px);" /> &nbsp;|&nbsp; 🎓 BSCS @ University of Cabuyao &nbsp;|&nbsp; 🕒 GMT+8
 
 </div>
