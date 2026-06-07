@@ -24,7 +24,7 @@
     <br /><br />
     I am a 21-year-old BS Computer Science student based in Cabuyao, Laguna, Philippines. When I'm not studying, I'm actively developing and diving into hackathons. For me, competitions are a great way to work on solving actual problems and meet interesting people.
     <br /><br />
-    I'm a game developer at heart—creator of the first-person horror experience The Lost Hospital built in Unreal Engine—who is also heavily exploring full-stack web development.
+    I'm a game developer at heart, creator of the first-person horror experience <i>The Lost Hospital</i> built in Unreal Engine—who is also heavily exploring full-stack web development.
   </div>
 </div>
 
