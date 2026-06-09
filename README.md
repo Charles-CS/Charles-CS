@@ -17,7 +17,6 @@
 
 ---
 
-<!-- Centered, borderless container wrapping constrained layout text (Approx 75% wide block) -->
 <div align="center">
   <div style="max-width: 75%; text-align: center; line-height: 1.6;">
     <strong>Frontend Engineer & Creative Web Architect</strong>
@@ -46,7 +45,7 @@
 
   <br />
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Charles-CS&theme=flat&margin-w=15&margin-h=15" alt="Charles's GitHub Trophies" />
+  [![Charles's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Charles-CS&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
   <br />
 
@@ -126,8 +125,6 @@
 </div>
 
 ---
-
-<br/><br/>
 
 ## 🤝 Connect with me
 <br/><br/>
