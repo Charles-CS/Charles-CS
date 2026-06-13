@@ -45,11 +45,6 @@
 
   <br />
 
-  [![Charles's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Charles-CS&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-
-  <br />
-
-  <br />
 
 </div>
   
