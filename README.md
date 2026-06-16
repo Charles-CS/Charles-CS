@@ -124,9 +124,6 @@
 ## 🤝 Connect with me
 <br/><br/>
 <p align="center">
-  <a href="https://github.com/Charles-CS" target="blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://x.com/Charles_CS_" target="blank">
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
