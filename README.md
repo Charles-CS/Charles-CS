@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="80%" />
   <br/>
-  <h1><i>"I solve problems i don't even want and still doing it..."</i></h1>
+  <h1><i>"I solve problems i don't even want and still doing it.."</i></h1>
   
   <br />
   <br />
